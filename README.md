@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Ziying Yang (杨子影).
+
+🌱 I’m currently a PhD student at [Computational Oncogenomics Group](https://info.baudisgroup.org/), [Department of Molecular Life Sciences](https://www.mls.uzh.ch/en.html), [UZH](https://www.uzh.ch/cmsssl/en.html). Supervisor: [Michael Baudis](https://info.baudisgroup.org/group/Michael-Baudis/#more). 
+
+🤔 My current works are mostly data-driven research of copy number variants (CNV) on cancer genomes, including copy number heterogeneity revealing inconsistency in cancer classification systems, CNV patterns on pan-cancer, and attention mechanism-based methods for uncovering CNV signatures on pan-cancer.
+
+📫 Reach me for collaborations or just general questions [here](ziyyan96@gmail.com).
+
+You can find me on [X](https://twitter.com/ziyyan96) or [LinkedIn](https://www.linkedin.com/in/ziying-yang-a19709308/)!
 
 <!--
 **ziyingyang96/ziyingyang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
